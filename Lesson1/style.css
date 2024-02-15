@@ -1,0 +1,28 @@
+
+    body {
+      width: 100%;
+      height: 100vh;
+      background: linear-gradient(
+        to left,
+        #ffb2f6 0%,
+        #ffb2f6 40%,
+        #b2fff8 60%,
+        #b2fff8 100%
+      );
+    }
+    .story {
+      border-radius: 50%;
+      text-align: left;
+      width: 1000px;
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    }
+    h2 {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    }
+    h1{
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+        text-align: center;
+    }
